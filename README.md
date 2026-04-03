@@ -200,7 +200,7 @@ A **rural telemedicine platform** bridging healthcare gaps with blockchain EHR +
 
 | Platform | Profile |
 |----------|---------|
-| 💻 **LeetCode** | [View Profile →](https://leetcode.com) |
+| 💻 **LeetCode** | [View Profile →]([https://leetcode.com](https://leetcode.com/u/Fake_Mithu/)) |
 | 🧠 **GitHub** | [Fakemithu →](https://github.com/Fakemithu) |
 
 </div>
