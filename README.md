@@ -163,10 +163,17 @@ A **rural telemedicine platform** bridging healthcare gaps with blockchain EHR +
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fakemithu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+
+![Repos Badge](https://img.shields.io/badge/Public%20Repos-7-blue?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-2-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Total%20Stars-5-yellow?style=for-the-badge&logo=github&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Hackathon-1st%20Runner%20Up-gold?style=for-the-badge&logo=trophy&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.7%2F10-success?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)
+
 </div>
 
 ---
