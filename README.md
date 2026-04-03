@@ -146,8 +146,8 @@ A **rural telemedicine platform** bridging healthcare gaps with blockchain EHR +
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fakemithu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fakemithu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fakemithu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fakemithu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
@@ -165,9 +165,9 @@ A **rural telemedicine platform** bridging healthcare gaps with blockchain EHR +
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+[<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fakemithu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-</div>
+</div>](https://github-profile-trophy.vercel.app/?username=Fakemithu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
 
 ---
 
