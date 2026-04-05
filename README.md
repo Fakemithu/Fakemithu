@@ -42,7 +42,7 @@
 
 ```javascript
 const sudhansu = {
-  location: "📍 Patna, Bihar, India",
+  location: "📍 Greater Noida, India",
   education: "🎓 B.Tech CSE (Data Science) @ GL Bajaj, Greater Noida | CGPA: 8.7",
   currentFocus: ["MERN Stack", "AI/ML Integration", "System Design"],
   status: "🟢 Open to Internships & Full-Time Roles",
